@@ -5,7 +5,6 @@
 -  使用 MySQL 关系数据库来保存学生数据
 -  能对学生信息进行增删改查的功能
 
-原文地址： https://www.jianshu.com/p/6a594fbea51d
 
 ---
 
@@ -15,7 +14,7 @@
 - mysql-8.0.15
 
 ## 代码资料
-https://www.jianshu.com/p/6a594fbea51d
+原文地址：https://www.jianshu.com/p/6a594fbea51d
 
 ## 关联更新
 Java学习.md/JavaEE/SSM/
