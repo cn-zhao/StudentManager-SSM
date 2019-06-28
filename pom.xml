@@ -43,7 +43,6 @@
     </properties>
 
     <dependencies>
-
         <!-- jstl标签 -->
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -156,7 +155,6 @@
             <artifactId>spring-test</artifactId>
             <version>${spring.version}</version>
         </dependency>
-
     </dependencies>
 
 </project>
