@@ -31,7 +31,6 @@
         </plugins>
     </build>
 
-
     <properties>
         <!-- 设置项目编码编码 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
